@@ -4,3 +4,5 @@ As a GUI grounding model trained on top of Qwen2.5-VL-3B, we do a couple of thin
 2. use a short grouding prompt rather than a long action prompt, and set the training max resolution to a low number.
 3. collect all sorts of icons from internet and synthesize the grounding data from them.
 4. use lora and unfreeze the ViT during training.
+# Acknowledgement
+Work by Yannan Luo, Yongfei Dong, at BYD.
